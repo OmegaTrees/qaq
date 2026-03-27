@@ -1,0 +1,9 @@
+{
+	"URL": "https://www.yellorush.co.za",
+	"RedirectURL":"https://www.yellorush.co.za",
+	"CheckStatusURL":"https://www.yellorush.co.za",
+	"SendScoreURL":"https://www.yellorush.co.za",
+	"leaderBoardURL":"https://www.yellorush.co.za/leaderboards",
+	"interval":10,
+	"key":"abcdefghij0"
+}
